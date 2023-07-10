@@ -1,0 +1,14 @@
+{
+    "name": "aylmao.wtf",
+    "short_name": "aylmao.wtf",
+    "icons": [
+        {
+            "src": "/android-chrome-96x96.png?v=37821997",
+            "sizes": "96x96",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "display": "standalone"
+}
